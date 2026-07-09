@@ -32,6 +32,7 @@ A key finding: switching from raw video input to MediaPipe landmarks, combined w
 
 ## Project Structure
 ├── sign-language-recognition.ipynb   # Main notebook: data loading, MediaPipe extraction, model training, evaluation
+
 └── README.md
 
 ## How to Run
